@@ -1,8 +1,7 @@
 # NewsReader
 
-Jetpack Composeを学びながら開発する、個人向けのAndroidニュースリーダーです。
+個人向けのAndroidニュースリーダーです。
 
-現在は要件定義・仕様策定を進めています。
 
 ## ドキュメント
 
