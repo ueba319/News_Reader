@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">News Reader</string>
+
+    <!-- ニュース一覧画面：ヘッダー -->
+    <string name="news_header_title">morning.</string>
+    <string name="theme_switch_to_light">ライトテーマに切り替える</string>
+    <string name="theme_switch_to_dark">ダークテーマに切り替える</string>
+
+    <!-- ニュース一覧画面：カテゴリ切り替え -->
+    <string name="news_section_domestic">domestic</string>
+    <string name="news_section_world">world</string>
+
+    <!-- ニュース一覧画面：記事一覧 -->
+    <string name="top_stories">top stories</string>
+    <string name="remaining_articles">残り %1$d件</string>
 </resources>

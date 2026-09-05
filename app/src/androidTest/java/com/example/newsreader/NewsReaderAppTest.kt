@@ -15,11 +15,12 @@ class NewsReaderAppTest {
     val composeRule = createAndroidComposeRule<MainActivity>()
 
     @Test
-    fun launch_displaysAppName() {
-        val appName = composeRule.activity.getString(R.string.app_name)
+    fun launch_displaysHeaderTitle() {
+        val headerTitle =
+            composeRule.activity.getString(R.string.news_header_title)
 
         composeRule
-            .onNodeWithText(appName)
+            .onNodeWithText(headerTitle)
             .assertIsDisplayed()
     }
 }
