@@ -9,6 +9,9 @@
 推奨する閲覧順序に沿って、以下から各資料を確認できます。
 
 - [要件定義書](./docs/01-requirements/requirements.md)
+- [ニュース取得機能仕様書](./docs/02-specifications/news-api-specification.md)
+- [API通信設計書](./docs/03-design/api-communication-design.md)
+- [API通信テスト仕様書](./docs/04-testing/api-communication-test.md)
 
 ## ステータス
 

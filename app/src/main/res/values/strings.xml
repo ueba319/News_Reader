@@ -13,4 +13,7 @@
     <!-- ニュース一覧画面：記事一覧 -->
     <string name="top_stories">top stories</string>
     <string name="remaining_articles">残り %1$d件</string>
+    <string name="news_empty">表示できるニュースがありません</string>
+    <string name="news_load_error">ニュースを取得できませんでした</string>
+    <string name="retry">再試行</string>
 </resources>
